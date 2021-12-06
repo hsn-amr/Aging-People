@@ -16,6 +16,7 @@
 		84BA74E0275DF1A20078D271 /* Aging_PeopleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BA74DF275DF1A20078D271 /* Aging_PeopleTests.swift */; };
 		84BA74EA275DF1A20078D271 /* Aging_PeopleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BA74E9275DF1A20078D271 /* Aging_PeopleUITests.swift */; };
 		84BA74EC275DF1A20078D271 /* Aging_PeopleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BA74EB275DF1A20078D271 /* Aging_PeopleUITestsLaunchTests.swift */; };
+		84BA74F9275DF65B0078D271 /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BA74F8275DF65B0078D271 /* CustomTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		84BA74E5275DF1A20078D271 /* Aging PeopleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Aging PeopleUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		84BA74E9275DF1A20078D271 /* Aging_PeopleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Aging_PeopleUITests.swift; sourceTree = "<group>"; };
 		84BA74EB275DF1A20078D271 /* Aging_PeopleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Aging_PeopleUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		84BA74F8275DF65B0078D271 /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				84BA74D1275DF1A20078D271 /* Assets.xcassets */,
 				84BA74D3275DF1A20078D271 /* LaunchScreen.storyboard */,
 				84BA74D6275DF1A20078D271 /* Info.plist */,
+				84BA74F8275DF65B0078D271 /* CustomTableViewCell.swift */,
 			);
 			path = "Aging People";
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				84BA74CD275DF1A00078D271 /* ViewController.swift in Sources */,
 				84BA74C9275DF1A00078D271 /* AppDelegate.swift in Sources */,
+				84BA74F9275DF65B0078D271 /* CustomTableViewCell.swift in Sources */,
 				84BA74CB275DF1A00078D271 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
